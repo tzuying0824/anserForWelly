@@ -1,4 +1,4 @@
-//React: 組件; my-app資料夾為實際react 程式
+//React: 組件
 import { useState } from "react";
 
 export default function Ans5() {
